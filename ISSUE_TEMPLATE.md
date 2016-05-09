@@ -1,14 +1,12 @@
 <h4> Report Description </h4>
 <hr></hr>
-<ol>
-  <h5>1. Status:</h5>
-  <h5>2. Priority:</h5>
-  <h5>3. Version:</h5>
-  <h5>4. Platform:</h5>
-  <h5>5. Description:</h5>
-  <h5>6. Reproduce:</h5>
-  <h5>7. Screenshot:</h5>
-  <h5>8. Additional:</h5>
-  <h5>9. Reported:</h5>
-</ol>
 
+  <h5>Status:</h5>
+  <h5>Priority:</h5>
+  <h5>Version:</h5>
+  <h5>Platform:</h5>
+  <h5>Description:</h5>
+  <h5>Reproduce:</h5>
+  <h5>Screenshot:</h5>
+  <h5>Additional:</h5>
+  <h5>Reported:</h5>
