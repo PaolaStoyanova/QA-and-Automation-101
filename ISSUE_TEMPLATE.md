@@ -1,5 +1,5 @@
 <h4> Report Description </h4>
-<hr>***</hr>
+<hr></hr>
 <ol>
   <h5>1. Status:</h5>
   <h5>2. Priority:</h5>
